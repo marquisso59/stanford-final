@@ -1,1 +1,1 @@
-# stanford-final
+# stanford-final-project
