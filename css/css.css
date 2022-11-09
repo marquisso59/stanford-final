@@ -6,7 +6,8 @@
 
 body{    
     height: 100vh;
-    width: auto;
+    width: 100vw;
+    background-size: cover;
     background-image: url(../images/background.jpg);
 }
 
@@ -23,13 +24,6 @@ body{
     background-color: blue;
     border-radius: 20px;
     padding: 10px;
-}
-
-.logo a{
-    align-items: center;
-    background-color: rgb(212, 155, 84);
-    text-decoration: none;
-    color: black;
 }
 
 .entry a,
